@@ -1,1 +1,1 @@
-
+La plateforme gère l’achat, le transfert et le contrôle d’accès des tickets du Mondial 2030 de façon sécurisée et intelligente. Elle utilise l’IA pour détecter les fraudes et optimiser les flux de spectateurs aux stades. La blockchain garantit la traçabilité et l’authenticité de chaque billet. L’ensemble repose sur une architecture moderne mêlant Spring Boot, Angular et services IA.

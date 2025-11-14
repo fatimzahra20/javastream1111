@@ -1,6 +1,4 @@
-<img src="6401c0d1-a52b-4d6e-8051-d1773f7af02d.jpg" width="300" height="300" />
-
-
+<img src="6401c0d1-a52b-4d6e-8051-d1737f7af02d.jpg" width="300" height="300" />
 
 
 

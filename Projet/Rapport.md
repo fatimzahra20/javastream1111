@@ -1,7 +1,8 @@
+
 <img src="6401c0d1-a52b-4d6e-8051-d1737f7af02d.jpg" width="300" height="300" />
 
 
-
-
+Essaadani Fatimzahra 
+Projet: Gestion des tickets du mondial
 
 La plateforme gère l’achat, le transfert et le contrôle d’accès des tickets du Mondial 2030 de façon sécurisée et intelligente. Elle utilise l’IA pour détecter les fraudes et optimiser les flux de spectateurs aux stades. La blockchain garantit la traçabilité et l’authenticité de chaque billet. L’ensemble repose sur une architecture moderne mêlant Spring Boot, Angular et services IA.
